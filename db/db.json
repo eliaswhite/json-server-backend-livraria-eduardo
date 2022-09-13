@@ -1,0 +1,48 @@
+{
+  "autores": [
+    {
+      "nome": "Clarice Lispector",
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Romance",
+      "id": 1
+    },
+    {
+      "nome": "Infantil",
+      "id": 2
+    },
+    {
+      "nome": "Clássicos",
+      "id": 3
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "Companhia da Letras",
+      "site": "https://www.companhiadasletras.com.br/",
+      "id": 1
+    },
+    {
+      "nome": "Globo Livros",
+      "site": "https://globolivros.com.br/",
+      "id": 2
+    },
+    {
+      "nome": "Grupo Editorial Record",
+      "site": "https://www.grupoeditoralrecord.com.br/",
+      "id": 3
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Laços de Família",
+      "isbn": "2445566    ",
+      "qntd": 1,
+      "preco": "20,99",
+      "id": 1
+    }
+  ]
+}
